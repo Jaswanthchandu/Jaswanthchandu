@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Jaswanth Chandu
+# Jaswanth Srinivas Chandu Meesala
 
 **Data & BI Analyst / Analytics Engineer** · MS in Information Systems @ Syracuse University
 
