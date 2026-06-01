@@ -4,7 +4,7 @@
 
 **Data & BI Analyst / Analytics Engineer** · MS in Information Systems @ Syracuse University
 
-I build data pipelines and the dashboards that sit on top of them — turning scattered, manual data into reporting that teams can trust. 2+ years of experience across ETL, data warehousing, and BI, with a background in healthcare analytics.
+I build data pipelines and the dashboards that sit on top of them; turning scattered, manual data into reporting that teams can trust. 2+ years of experience across ETL, data warehousing, and BI, with a background in healthcare analytics.
 
 **Tech Stack:** SQL · Python (pandas, scikit-learn, XGBoost) · Snowflake · Apache Airflow · AWS (S3, EC2, Lambda) · Tableau · Power BI · dbt
 
