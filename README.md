@@ -31,5 +31,5 @@ Dashboard built on 300K+ CDC records, deployed on Render.
 MS in Information Systems + Certificate of Advanced Study in Data Science — Syracuse University 
 
 ## Connect
-- - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jaswanth-chandu/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jaswanth-chandu/)
 - Email: jaswanthchandu5@gmail.com
