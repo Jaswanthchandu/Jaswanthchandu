@@ -18,6 +18,23 @@ Cloud & Data Engineering: AWS • dbt • Airflow
 
 ---
 
+## Professional Experience
+
+### HCA Healthcare | Data Analyst
+
+- Developed Power BI dashboards for Emergency Department Patient Flow and Bed Utilization.
+- Built KPIs including patient waiting time, boarding duration, occupancy, and discharge trends.
+- Performed SQL- and Python-based data validation.
+- Collaborated with business stakeholders to support operational reporting.
+
+### Mphasis | Data Analyst
+
+- Worked on healthcare claims processing and member enrollment analytics.
+- Built SQL queries and Power BI dashboards.
+- Supported data validation, KPI reporting, and production issue resolution.
+
+---
+
 ## Featured Projects
 
 **[Predictive Analysis on Housing Market Dynamics](https://github.com/Jaswanthchandu/Predictive-Analysis-on-Housing-Market-Dynamics)**
