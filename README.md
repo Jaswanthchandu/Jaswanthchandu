@@ -8,13 +8,13 @@ I'm a Data Analyst with 3+ years of experience delivering data-driven solutions 
 
 ## Core Expertise
 
-- SQL Development & Query Optimization
-- Power BI Dashboard Development
-- Python (pandas) for Data Analysis & Validation
-- Data Validation & Data Quality
-- KPI Development & Business Reporting
 - Healthcare Analytics
-- Business Intelligence & Data Visualization
+- SQL Development
+- Power BI Dashboard Development
+- Python Data Analysis
+- Data Validation & Quality Assurance
+- KPI Development & Reporting
+- Business Intelligence
 - Stakeholder Collaboration
 
 **Tech Stack:** 
