@@ -6,6 +6,17 @@
 
 I'm a Data Analyst with 3+ years of experience delivering data-driven solutions using SQL, Python, Power BI, Snowflake, and Excel. My experience includes healthcare analytics, emergency department patient flow, claims processing, member enrollment, KPI reporting, dashboard development, and data validation. I enjoy transforming complex data into actionable insights that support business and operational decision-making.
 
+## Core Expertise
+
+- SQL Development & Query Optimization
+- Power BI Dashboard Development
+- Python (pandas) for Data Analysis & Validation
+- Data Validation & Data Quality
+- KPI Development & Business Reporting
+- Healthcare Analytics
+- Business Intelligence & Data Visualization
+- Stakeholder Collaboration
+
 **Tech Stack:** 
 
 Languages: SQL • Python
@@ -23,14 +34,13 @@ Cloud & Data Engineering: AWS • dbt • Airflow
 ### HCA Healthcare | Data Analyst
 
 - Developed Power BI dashboards for Emergency Department Patient Flow and Bed Utilization.
-- Built KPIs including patient waiting time, boarding duration, occupancy, and discharge trends.
+- Built KPIs including patient waiting time, boarding duration, occupancy, and discharge trends to support hospital operations.
 - Performed SQL- and Python-based data validation.
 - Collaborated with business stakeholders to support operational reporting.
 
 ### Mphasis | Data Analyst
 
-- Worked on healthcare claims processing and member enrollment analytics.
-- Built SQL queries and Power BI dashboards.
+- Developed SQL queries and Power BI dashboards supporting healthcare claims processing and member enrollment reporting..
 - Supported data validation, KPI reporting, and production issue resolution.
 
 ---
