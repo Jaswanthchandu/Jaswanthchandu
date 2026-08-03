@@ -56,4 +56,4 @@ MS in Information Systems + Certificate of Advanced Study in Data Science — Sy
 
 ## Connect
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jaswanth-chandu/)
-- Email: jaswanthchandu5@gmail.com
+- Email: jaswanth.s.meesala@gmail.com
