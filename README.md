@@ -2,12 +2,19 @@
 
 # Jaswanth Srinivas Chandu Meesala
 
-**Data & BI Analyst / Analytics Engineer** · MS in Information Systems @ Syracuse University
+**Data Analyst | Business Intelligence | Healthcare Analytics | SQL • Power BI • Python** 
 
-I build data pipelines and the dashboards that sit on top of them; turning scattered, manual data into reporting that teams can trust. 
-2+ years of experience across ETL, data warehousing, and BI, with a background in healthcare analytics.
+I'm a Data Analyst with 3+ years of experience delivering data-driven solutions using SQL, Python, Power BI, Snowflake, and Excel. My experience includes healthcare analytics, emergency department patient flow, claims processing, member enrollment, KPI reporting, dashboard development, and data validation. I enjoy transforming complex data into actionable insights that support business and operational decision-making.
 
-**Tech Stack:** SQL · Python (pandas, scikit-learn, XGBoost) · Snowflake · Apache Airflow · AWS (S3, EC2, Lambda) · Tableau · Power BI · dbt
+**Tech Stack:** 
+
+Languages: SQL • Python
+
+Business Intelligence: Power BI • Tableau • Excel
+
+Databases: Snowflake • SQL Server
+
+Cloud & Data Engineering: AWS • dbt • Airflow
 
 ---
 
