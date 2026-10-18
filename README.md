@@ -4,9 +4,9 @@
 
 **Data Analyst | Business Intelligence | Healthcare & Insurance Analytics | Business Analytics** 
 
-I am a Data Analyst with 3+ years of experience in data analytics, business intelligence, and reporting automation. I work with SQL, Python, Power BI, Tableau, Snowflake, and AWS to analyze large datasets, develop dashboards, optimize queries, build ETL pipelines, and improve data quality.
+I'm a Data Analyst with 3+ years of professional experience in data analytics, business intelligence, and reporting automation. I use SQL, Python, Power BI, Tableau, Snowflake, and AWS to analyze large datasets, develop dashboards, optimize queries, build ETL pipelines, and improve data quality.
 
-My professional experience spans healthcare and insurance analytics, including claims analysis, operational reporting, KPI development, and data validation. I focus on translating complex data into reliable reporting and measurable operational improvements.
+My experience spans healthcare and insurance analytics, including claims analysis, operational reporting, and KPI development. My work includes optimizing SQL query performance by approximately 87% and automating reporting workflows to reduce manual effort.
 
 ---
 
