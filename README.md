@@ -2,7 +2,7 @@
 
 # Jaswanth Srinivas Chandu Meesala
 
-**Data Analyst | Business Intelligence | Healthcare & Insurance Analytics** 
+**Data Analyst | Business Intelligence | Healthcare & Insurance Analytics | Business Analytics** 
 
 I am a Data Analyst with 3+ years of experience in data analytics, business intelligence, and reporting automation. I work with SQL, Python, Power BI, Tableau, Snowflake, and AWS to analyze large datasets, develop dashboards, optimize queries, build ETL pipelines, and improve data quality.
 
