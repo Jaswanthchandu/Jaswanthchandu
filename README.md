@@ -21,7 +21,7 @@ My professional experience spans healthcare and insurance analytics, including c
 
 ---
 
-**Tech Stack:** 
+## 🛠️ Tech Stack
 
 **Programming & Analytics:** SQL, Python, Pandas, NumPy, Excel
 
