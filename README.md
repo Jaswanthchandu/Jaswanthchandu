@@ -19,6 +19,8 @@ My professional experience spans healthcare and insurance analytics, with a focu
 - Business Intelligence
 - Stakeholder Collaboration
 
+---
+
 **Tech Stack:** 
 
 **Programming & Analytics:** SQL, Python, Pandas, NumPy, Excel
@@ -29,39 +31,45 @@ My professional experience spans healthcare and insurance analytics, with a focu
 
 **Data Processing:** PySpark, ETL, Data Transformation, Data Modeling
 
-**Analytics & Reporting:** Data Validation, KPI Reporting, Dashboard Development, Statistical Analysis
+**Analytics & Business Skills:** Business Analysis, Data Quality, Data Validation, KPI Reporting, Dashboard Development, Statistical Analysis
 
 ---
 
-## Professional Experience
+## 🚀 Featured Projects
 
-### HCA Healthcare | Data Analyst
+### 📊 [U.S. Mental Health Trends Dashboard](https://github.com/Jaswanthchandu/mental_health_trends)
 
-- Developed Power BI dashboards for Emergency Department Patient Flow and Bed Utilization.
-- Built KPIs including patient waiting time, boarding duration, occupancy, and discharge trends to support hospital operations.
-- Performed SQL- and Python-based data validation.
-- Collaborated with business stakeholders to support operational reporting.
+Interactive analytics dashboard exploring 300K+ CDC records across U.S. states to identify geographic, demographic, and time-based patterns in mental health outcomes.
 
-### Mphasis | Data Analyst
+**Technologies:** Python, Pandas, Plotly, Dash
 
-- Developed SQL queries and Power BI dashboards supporting healthcare claims processing and member enrollment reporting..
-- Supported data validation, KPI reporting, and production issue resolution.
+🌐 [Live Dashboard](https://mental-health-trends.onrender.com/)
+
+### 🚗 [NYC Motor Vehicle Collision Analytics](https://github.com/Jaswanthchandu/Motor-Vehicle-Collision-Visual-Analytics-Dashboard)
+
+Tableau visual analytics project exploring 2.2M+ NYC collision records to identify accident hotspots, collision severity patterns, and contributing factors.
+
+**Technologies:** Tableau, Data Visualization, Exploratory Data Analysis
+
+### 🏠 [Predictive Analysis on Housing Market Dynamics](https://github.com/Jaswanthchandu/Predictive-Analysis-on-Housing-Market-Dynamics)
+
+Machine learning project analyzing housing market dynamics using XGBoost and SHAP to explore housing-price predictions and feature importance.
+
+**Technologies:** Python, XGBoost, SHAP, Streamlit
+
+**Reported Model Performance:** R² = 0.86
 
 ---
 
-## Featured Projects
+## 💼 Professional Experience
 
-**[NYC Motor Vehicle Collision Visual Analytics](https://github.com/Jaswanthchandu/Motor-Vehicle-Collision-Visual-Analytics-Dashboard)**
-Interactive Tableau dashboards analyzing 2.2M+ collision records — time-series trends and geographic patterns.
-*Tableau · Data Visualization*
+**Data Analyst | HCA Healthcare**
 
-**[US Mental Health Trends Dashboard](https://github.com/Jaswanthchandu/mental_health_trends)**
-Dashboard built on 300K+ CDC records, deployed on Render.
-*Python · Dash · Data Visualization* — [Live demo](https://mental-health-trends.onrender.com/)
+Healthcare operations analytics, business intelligence dashboards, Python-based analysis, ETL development, and reporting automation.
 
-**[Predictive Analysis on Housing Market Dynamics](https://github.com/Jaswanthchandu/Predictive-Analysis-on-Housing-Market-Dynamics)**
-ML model predicting how new construction affects median house prices. XGBoost (R² = 0.86), SHAP feature-importance analysis, and an interactive Streamlit dashboard.
-*Python · XGBoost · Streamlit* 
+**Data Analyst | Mphasis**
+
+Insurance claims and policy analytics, SQL query optimization, Power BI reporting, data validation, and cloud-based data processing.
 
 ---
 
