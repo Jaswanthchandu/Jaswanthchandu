@@ -8,17 +8,6 @@ I am a Data Analyst with 3+ years of experience in data analytics, business inte
 
 My professional experience spans healthcare and insurance analytics, including claims analysis, operational reporting, KPI development, and data validation. I focus on translating complex data into reliable reporting and measurable operational improvements.
 
-## Core Expertise
-
-- Healthcare Analytics
-- SQL Development
-- Power BI Dashboard Development
-- Python Data Analysis
-- Data Validation & Quality Assurance
-- KPI Development & Reporting
-- Business Intelligence
-- Stakeholder Collaboration
-
 ---
 
 ## 🛠️ Tech Stack
