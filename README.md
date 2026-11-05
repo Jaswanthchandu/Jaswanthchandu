@@ -4,7 +4,7 @@
 
 **Supply Chain Analyst | Supply Chain & Data Analytics | SQL, Python, Power BI, Tableau, SAP S/4HANA | Demand Forecasting & Inventory Optimization** 
 
-I'm a Supply Chain and Data Analyst with 3+ years of experience across pharmaceutical distribution and manufacturing environments, specializing in inventory planning, demand forecasting, distribution operations, and supply chain analytics.
+I'm a Supply Chain Analyst with 3+ years of experience across pharmaceutical distribution and manufacturing environments, specializing in inventory planning, demand forecasting, distribution operations, and supply chain analytics.
 
 I use SQL, Python, Power BI, Tableau, SAP S/4HANA, Advanced Excel, Kinaxis Maestro, Snowflake, and AWS to analyze operational data, improve reporting processes, develop dashboards, optimize queries, build ETL pipelines, and support data-driven decision-making.
 
@@ -65,12 +65,16 @@ February 2026 – Present
 
 - SQL, Power BI, SAP S/4HANA, Kinaxis Maestro, and cross-functional supply chain analysis.
 
+- Improved regional distribution fill rates from 94% to 98.2% by developing SQL queries to aggregate multi-channel inventory data, enabling      the team to identify and resolve supplier delivery bottlenecks proactively.
+
 **Supply Chain Analyst | Seagate Technology**
 October 2021 – July 2024
 
 - Material requirements planning, inventory analysis, supplier performance, warehouse operations, and process improvement.
 
 - SQL, Python, Tableau, Alteryx, and SAP ERP for supply chain reporting and analytical solutions.
+
+- Automated supply chain reporting using Alteryx and SQL to feed Tableau dashboards, replacing weekly manual Excel trackers and saving           approximately 8 hours of reporting time per week.
 
 ---
 
