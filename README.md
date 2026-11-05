@@ -2,37 +2,35 @@
 
 # Jaswanth Srinivas Chandu Meesala
 
-**Data Analyst | Business Intelligence | Healthcare & Insurance Analytics | SQL, Python, Power BI, Tableau** 
+**Supply Chain Analyst | Supply Chain & Data Analytics | SQL, Python, Power BI, Tableau, SAP S/4HANA | Demand Forecasting & Inventory Optimization** 
 
-I'm a Data Analyst with 3+ years of professional experience in data analytics, business intelligence, and reporting automation. I use SQL, Python, Power BI, Tableau, Snowflake, and AWS to analyze large datasets, develop dashboards, optimize queries, build ETL pipelines, and improve data quality.
+I'm a Supply Chain and Data Analyst with 3+ years of experience across pharmaceutical distribution and manufacturing environments, specializing in inventory planning, demand forecasting, distribution operations, and supply chain analytics.
 
-My experience spans healthcare and insurance analytics, including claims analysis, operational reporting, and KPI development. My work includes optimizing SQL query performance by approximately 87% and automating reporting workflows to reduce manual effort.
+I use SQL, Python, Power BI, Tableau, SAP S/4HANA, Advanced Excel, Kinaxis Maestro, Snowflake, and AWS to analyze operational data, improve reporting processes, develop dashboards, optimize queries, build ETL pipelines, and support data-driven decision-making.
+
+My experience includes improving distribution fill rates, reducing forecasting errors, optimizing inventory replenishment, and identifying opportunities to improve supplier and warehouse performance.
+
+I'm passionate about applying analytics and technology to solve complex business problems and improve supply chain efficiency.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming & Analytics:** SQL, Python, Pandas, NumPy, Excel
+**Supply Chain & Operations:** Supply Chain Analytics, Inventory Optimization, Demand Forecasting, Replenishment Planning, Material Requirements Planning (MRP), Procurement Analytics, Supplier Performance Analysis, Warehouse Operations
 
-**Business Intelligence & Visualization:** Power BI, Tableau, Dash, Plotly
+**Programming & Data Analytics:** SQL, Python, Pandas, NumPy, Advanced Excel, Statistical Analysis, Data Cleaning, Data Validation
 
-**Databases & Cloud:** Snowflake, AWS, SQL Server
+**Business Intelligence & Visualization:** Power BI, Tableau, Dash, Plotly, Streamlit, KPI Reporting, Dashboard Development
 
-**Data Engineering & Processing:** PySpark, ETL, Data Transformation, Data Modeling
+**ERP & Supply Chain Systems:** SAP S/4HANA, Kinaxis Maestro, Warehouse Management Systems (WMS)
 
-**Analytics & Business Skills:** Business Analysis, Data Quality, Data Validation, KPI Reporting, Dashboard Development, Statistical Analysis
+**Databases & Data Processing:** Snowflake, SQL Server, Alteryx, AWS, ETL Workflows, Data Transformation, Reporting Automation
+
+**Business & Process Improvement:** Root Cause Analysis, Business Analysis, Operational Reporting, Lean Methodologies, User Acceptance Testing (UAT), Jira
 
 ---
 
 ## 🚀 Featured Projects
-
-### 📊 [U.S. Mental Health Trends Dashboard](https://github.com/Jaswanthchandu/mental_health_trends)
-
-Interactive analytics dashboard exploring 300K+ CDC records across U.S. states to identify geographic, demographic, and time-based patterns in mental health outcomes.
-
-**Technologies:** Python, Pandas, Plotly, Dash
-
-🌐 [Live Dashboard](https://mental-health-trends.onrender.com/)
 
 ### 🚗 [NYC Motor Vehicle Collision Analytics](https://github.com/Jaswanthchandu/Motor-Vehicle-Collision-Visual-Analytics-Dashboard)
 
@@ -48,17 +46,31 @@ Machine learning project analyzing housing market dynamics using XGBoost and SHA
 
 **Reported Model Performance:** R² = 0.86
 
+### 📊 [U.S. Mental Health Trends Dashboard](https://github.com/Jaswanthchandu/mental_health_trends)
+
+Interactive analytics dashboard exploring 300K+ CDC records across U.S. states to identify geographic, demographic, and time-based patterns in mental health outcomes.
+
+**Technologies:** Python, Pandas, Plotly, Dash
+
+🌐 [Live Dashboard](https://mental-health-trends.onrender.com/)
+
 ---
 
 ## 💼 Professional Experience
 
-**Data Analyst | HCA Healthcare**
+**Supply Chain Analyst | McKesson**
+February 2026 – Present
 
-Healthcare operations analytics, business intelligence dashboards, Python-based analysis, ETL development, and reporting automation.
+- Supply chain analytics, inventory optimization, demand forecasting, distribution performance, and operational reporting.
 
-**Data Analyst | Mphasis**
+- SQL, Power BI, SAP S/4HANA, Kinaxis Maestro, and cross-functional supply chain analysis.
 
-Insurance claims and policy analytics, SQL query optimization, Power BI reporting, data validation, and cloud-based data processing.
+**Supply Chain Analyst | Seagate Technology**
+October 2021 – July 2024
+
+- Material requirements planning, inventory analysis, supplier performance, warehouse operations, and process improvement.
+
+- SQL, Python, Tableau, Alteryx, and SAP ERP for supply chain reporting and analytical solutions.
 
 ---
 
@@ -67,4 +79,4 @@ MS in Information Systems + Certificate of Advanced Study in Data Science — Sy
 
 ## Connect
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jaswanth-chandu/)
-- Email: jaswanth.s.meesala@gmail.com
+- Email: meesalajaswanthc@gmail.com
